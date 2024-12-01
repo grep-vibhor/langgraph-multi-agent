@@ -31,3 +31,11 @@ async function getFinalState(){
 ```bash
 ts-node --esm index.ts
 ```
+
+
+
+## Docs
+
+* (GitHub)[https://github.com/langchain-ai/langgraphjs/blob/main/examples/multi_agent/multi_agent_collaboration.ipynb]
+
+* (Tutorial)[https://www.youtube.com/watch?v=hvAPnpSfSGo&list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&index=9]
