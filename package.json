@@ -2,6 +2,9 @@
   "name": "langgraph-multi-agent",
   "version": "1.0.0",
   "description": "Multi Agent Workflow using LangGraph",
+  "type": "module",
+  "module": "es2022",
+  "target": "es2022",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +24,12 @@
     "@langchain/core": "^0.3.19",
     "@langchain/langgraph": "^0.2.23",
     "@langchain/openai": "^0.3.14",
+    "canvas": "^2.11.2",
+    "d3": "^7.9.0",
+    "tslab": "^1.0.22",
     "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.3"
   }
 }
