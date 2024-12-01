@@ -1,0 +1,26 @@
+{
+  "name": "langgraph-multi-agent",
+  "version": "1.0.0",
+  "description": "Multi Agent Workflow using LangGraph",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grep-vibhor/langgraph-multi-agent.git"
+  },
+  "author": "vibhor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grep-vibhor/langgraph-multi-agent/issues"
+  },
+  "homepage": "https://github.com/grep-vibhor/langgraph-multi-agent#readme",
+  "dependencies": {
+    "@langchain/community": "^0.3.16",
+    "@langchain/core": "^0.3.19",
+    "@langchain/langgraph": "^0.2.23",
+    "@langchain/openai": "^0.3.14",
+    "typescript": "^5.7.2"
+  }
+}
